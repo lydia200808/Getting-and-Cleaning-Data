@@ -12,4 +12,4 @@ Course Project
 
 3) In RStudio: setwd("~/datacourse3/UCI HAR Dataset"), followed by: source("run_analysis.R")
 
-4) Use data <- read.table("data_set_with_the_averages.txt") to read the data. 
+4) Use data <- read.table("cleaned_data.txt") to read the data. 
